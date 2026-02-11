@@ -82,3 +82,5 @@ streamlit run main.py
 * 사용자가 업로드한 문서는 텍스트 추출 및 임베딩 과정에서 OpenAI API 서버로 전송되므로, 민감한 개인정보가 포함된 문서는 마스킹 처리 후 사용하는 것을 권장합니다.
 
 ## 7. 실행 화면
+<img width="1349" height="621" alt="스크린샷 2026-02-11 110632" src="https://github.com/user-attachments/assets/95b7471d-9e76-48cf-8809-63925ec78b9d" />
+
